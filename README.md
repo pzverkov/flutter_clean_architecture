@@ -567,5 +567,3 @@ class User {
 }
 
 ```
-
-Checkout a small example [here](./example/) and a full application built [here](https://github.com/pzverkov/Axion-Technologies-HnH).
